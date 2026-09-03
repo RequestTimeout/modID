@@ -16,7 +16,7 @@ modID "C:\Users\<you>\.minecraft"
 --json       Output scan results as JSON -> Coming soon
 --help       Show help -> Since version 1.0
 ```
-Examples usages:
+Examples usages(Not implemented):
 ```bash
 modID "C:\Users\banana\.minecraft" --verbose
 modID "C:\Users\banana\.minecraft" --json
@@ -37,6 +37,6 @@ All Rights Reserved.
 See [`LICENSE`](LICENSE) for details.
 
 ## Author
-**Request Timeout**
+[**Request Timeout**](https://github.com/RequestTimeout)
 
 GitHub: https://github.com/RequestTimeout
