@@ -11,7 +11,7 @@ Example:
 modID "C:\Users\<you>\.minecraft"
 ```
 ### Options
-```
+```text
 --verbose    Generate detailed mod information -> Coming soon
 --json       Output scan results as JSON -> Coming soon
 --help       Show help -> Since version 1.0
