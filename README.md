@@ -25,6 +25,7 @@ modID "C:\Users\banana\.minecraft" --json
 - Scans the Minecraft directory
 - Detects installed mods
 - Reads mod metadata
+### Planned(Coming soon)
 - Provides detailed information when requested
 - Can output machine-readable JSON
 ## Status
