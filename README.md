@@ -34,7 +34,7 @@ modID "C:\Users\banana\.minecraft" --json
 ###### DISCLAIMER: This project is still in development.
 ## License
 All Rights Reserved.
-See [`LICENSE`](LICENSE) for details.
+See [`LICENSE`](LICENSE.md) for details.
 
 ## Authors
 - [**Request Timeout**](https://github.com/RequestTimeout)
