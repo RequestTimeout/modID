@@ -30,13 +30,10 @@ modID "C:\Users\banana\.minecraft" --json
 ## Status
 **Current version:** 1.0
 
-This project is still being developed.
+###### DISCLAIMER: This project is still in development.
 ## License
-
 All Rights Reserved.
 See [`LICENSE`](LICENSE) for details.
 
-## Author
-[**Request Timeout**](https://github.com/RequestTimeout)
-
-GitHub: https://github.com/RequestTimeout
+## Authors
+- [**Request Timeout**](https://github.com/RequestTimeout)
