@@ -4,7 +4,7 @@ Minecraft modding environment inspector.
 
 ## Usage
 ```bash
-modID <minecraft_directory>
+modID "<minecraft_directory>"
 ```
 Example:
 ```bash
