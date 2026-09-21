@@ -1,4 +1,7 @@
+# <div>modID</div>
 Minecraft modding environment inspector.
+
+__private__
 
 `modID` scans your Minecraft directory and provides information about your installed mods and modding environment.
 
